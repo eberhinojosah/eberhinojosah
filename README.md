@@ -1,6 +1,4 @@
 ## Hi there 👋
-##- 🔭 I’m currently working on WPP
-##- 🌱 I’m currently learning More about Data Engineering skills 
 
 <!--
 **eberhinojosah/eberhinojosah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
