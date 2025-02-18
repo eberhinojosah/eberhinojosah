@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi, I’m Eber Hinojosa
 
-<!--
-**eberhinojosah/eberhinojosah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer | ETL Developer |**  
+🎓 **Master in Big Data**  
+🏢 **Working as a ETL Developer |**  
+🌍 **Cloud Technologies (Azure)**  
+📊 **Building ETL pipelines, Using ADF, SSIS**  
+⚡ **Learning: Azure Frabrics | Databricks |**  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
 
-- 🔭 I’m currently working on WPP
-- 🌱 I’m currently learning More about Data Engineering skills 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Languages**  
+<div>
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg">
+ </div>
+
+#### **Relational Databases (BBDD)**  
+<div>
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+</div>
+
+
+#### **Data Engineering & Cloud**  
+<div>
+  <img align="center" alt="Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+ </div>
+
+### 📬 How to reach me:
+<a href="https://www.linkedin.com/in/eber-jonathan-hinojosa-52304656/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+📧 eberhinojosa@gmail.com 
+---
+
